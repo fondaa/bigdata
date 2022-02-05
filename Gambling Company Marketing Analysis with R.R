@@ -1,8 +1,5 @@
 # --------------------------------------------------------------
-# Business Analytics Tools - Open Source - Group 12
-#     FAN Fangda
-#     NITHARWAL Ashwani 
-#     RAJI Hind
+# Marketing Analysis Gambling Company
 # --------------------------------------------------------------
 
 # --------------------------------------------------------------
